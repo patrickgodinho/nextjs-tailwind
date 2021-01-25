@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+/*@font-face {*/
+/*    font-family: 'Rubik';*/
+/*    src: local('Rubik'), url("./public/fonts/Rubik-Medium.ttf");*/
+/*    src: local('Rubik'), url("./public/fonts/Rubik-Black.ttf");*/
+/*    src: local('Rubik'), url("./public/fonts/Rubik-Light.ttf");*/
+/*    src: local('Rubik'), url("./public/fonts/Rubik-Regular.ttf");*/
+/*}*/
+
+@tailwind utilities;
